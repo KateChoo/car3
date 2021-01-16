@@ -15,6 +15,7 @@ body {
   overflow: hidden;
   /* background: url("https://cdn.pixabay.com/photo/2016/10/21/14/46/london-1758181_1280.jpg"); */
   background: url("https://cdn.pixabay.com/photo/2014/05/22/21/46/street-351481_1280.jpg");
+  font-size: 5px;
 }
 
 .scene,
