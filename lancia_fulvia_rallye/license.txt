@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lancia Fulvia rallye
+* source:	https://sketchfab.com/3d-models/lancia-fulvia-rallye-5f02ef9e0daf481aba8c8b51216c0a6b
+* author:	Floppy (https://sketchfab.com/fastolfe)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lancia Fulvia rallye" (https://sketchfab.com/3d-models/lancia-fulvia-rallye-5f02ef9e0daf481aba8c8b51216c0a6b) by Floppy (https://sketchfab.com/fastolfe) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
